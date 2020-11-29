@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  font-family: monospace;
+}
+
+.img-header {
+  height: 50rem;
+}
+.img-title {
+  margin-top: 20%;
+}
+
+.icon-rs {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+.icon-cc {
+  height: 1.5rem;
+  width: 2.75rem;
+}
+
+.card-body-little {
+  height: 10rem;
+}
+
+.container {
+  height: 35rem;
+  width: 50rem;
+}
+
+.skills {
+  width: 25rem;
+  margin: 3.5rem 3.5rem 3.5rem 3.5rem;
+}
+
+.p-footer {
+  font-size: 0.6rem;
+}
+
+/*# sourceMappingURL=index.css.map */
